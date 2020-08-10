@@ -1,4 +1,4 @@
-<H1>JavaExercise - Calculo de trabajo por Obrero</H1>
+<H1>JavaExercise - Determinar Pago</H1>
 <P>Diseñe un algoritmo que determine el pago a realizar, sabiendo sus montos y que los descuentos dependen de la categoría, en base a la siguiente tabla:</P>
 
 <img src="https://imgur.com/mB8Caq5.png" alt="">
