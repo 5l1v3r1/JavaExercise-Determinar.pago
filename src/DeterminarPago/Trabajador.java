@@ -1,4 +1,4 @@
-package Ejer5;
+package DeterminarPago;
 public class Trabajador {
     
     String cliente, categoria;
